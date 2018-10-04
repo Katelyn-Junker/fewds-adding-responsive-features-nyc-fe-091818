@@ -15,17 +15,17 @@
   body{
     font-size:85%;
   }
-  h1{
+ #logo h1{
     height:35px;
     width:35px;
   }
-  h2{
+  #logo h2{
     font-size:2.2em;
   }
   #social{
     top:72px;
   }
   .col-3 p{
-    
+    column-count: 2;
   }
 }
