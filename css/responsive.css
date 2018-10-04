@@ -1,9 +1,12 @@
-.wrapper{
-  width: 90%;
+@media (max-width:1108px){
+  .wrapper{
+    width:90%;
+  }
 }
 
 #social{
   position: fixed;
+  width: 90%;
   top: 82px;
   right: 4px;
 }
