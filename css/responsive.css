@@ -1,7 +1,9 @@
 @media (max-width:1108px){
   .wrapper{
     width:90%;
-  }#social{
+  }
+  
+  #social{
   position: fixed;
   width: 90%;
   top: 82px;
@@ -9,3 +11,11 @@
 }
 }
 
+@media (max-width: 900px){
+  .body{
+    font-size:85%;
+  }
+  #logo h1{
+    
+  }
+}
